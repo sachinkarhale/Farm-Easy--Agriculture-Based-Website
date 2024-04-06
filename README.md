@@ -1,10 +1,10 @@
 # Agriculture-Website
-"Steps to Execute the Project:
+Steps to Execute the Project:
 
-Download the source code/zip file.
-Create a new folder.
-Extract the zip file.
-Copy the  extracted file and paste it to the new folder.
-Open Visual Studio Code (VS Code).
-Open the new folder in VS Code.
-Run the file named "**agri.html**" using Live Server / Live Preview.
+1.Download the source code/zip file.
+2.Create a new folder.
+3.Extract the zip file.
+4.Copy the  extracted file and paste it to the new folder.
+5.Open Visual Studio Code (VS Code).
+6.Open the new folder in VS Code.
+7.Run the file named "**agri.html**" using Live Server / Live Preview.
