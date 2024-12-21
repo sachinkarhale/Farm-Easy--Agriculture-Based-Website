@@ -13,4 +13,4 @@ Steps to Execute the Project:
 
 6.Open the new folder in VS Code.
 
-7.Run the file named "**agri.html**" using Live Server / Live Preview.
+7.Run the file named "**index.html**" using Live Server / Live Preview.
